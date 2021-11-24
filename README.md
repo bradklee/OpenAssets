@@ -12,10 +12,14 @@ The trees... So far there are too few to do ML, but making
 more similar could be a meta goal. 
 
 The Mandapams... Have to do with Elsewhere, don't worry, 
-you'll figure it if you just keep working.
+you'll figure it out if you just keep working.
 
 Have more fun & games & puzzles if necessary!
 
 Happy Holidays! 
 
 --Brad
+
+Original Designs via MagicaVoxel @ephtracy
+https://twitter.com/ephtracy/status/1439512060321312774
+https://ephtracy.github.io/
