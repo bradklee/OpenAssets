@@ -1,0 +1,52 @@
+A. Einstein vs. R. Oppenheimer (1933) /// Result: 1-0 after 47 moves
+----------------------------------------------------------------
+short   long    FEN
+----------------------------------------------------------------
+Init    Init    rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+e4      e2-e4   rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+e5      e7-e5   rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2
+Nf3     g1-f3   rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
+Nc6     b8-c6   r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
+Bb5     f1-b5   r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3
+a6      a7-a6   r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4
+Ba4     b5-a4   r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4
+b5      b7-b5   r1bqkbnr/2pp1ppp/p1n5/1p2p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq b6 0 5
+Bb3     a4-b3   r1bqkbnr/2pp1ppp/p1n5/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R b KQkq - 1 5
+Nf6     g8-f6   r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R w KQkq - 2 6
+O-O     O-O     r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 b kq - 3 6
+Nxe4    f6xe4   r1bqkb1r/2pp1ppp/p1n5/1p2p3/4n3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 0 7
+Re1     f1-e1   r1bqkb1r/2pp1ppp/p1n5/1p2p3/4n3/1B3N2/PPPP1PPP/RNBQR1K1 b kq - 1 7
+d5      d7-d5   r1bqkb1r/2p2ppp/p1n5/1p1pp3/4n3/1B3N2/PPPP1PPP/RNBQR1K1 w kq d6 0 8
+a4      a2-a4   r1bqkb1r/2p2ppp/p1n5/1p1pp3/P3n3/1B3N2/1PPP1PPP/RNBQR1K1 b kq a3 0 8
+b4      b5-b4   r1bqkb1r/2p2ppp/p1n5/3pp3/Pp2n3/1B3N2/1PPP1PPP/RNBQR1K1 w kq - 0 9
+d3      d2-d3   r1bqkb1r/2p2ppp/p1n5/3pp3/Pp2n3/1B1P1N2/1PP2PPP/RNBQR1K1 b kq - 0 9
+Nc5     e4-c5   r1bqkb1r/2p2ppp/p1n5/2npp3/Pp6/1B1P1N2/1PP2PPP/RNBQR1K1 w kq - 1 10
+Nxe5    f3xe5   r1bqkb1r/2p2ppp/p1n5/2npN3/Pp6/1B1P4/1PP2PPP/RNBQR1K1 b kq - 0 10
+Ne7     c6-e7   r1bqkb1r/2p1nppp/p7/2npN3/Pp6/1B1P4/1PP2PPP/RNBQR1K1 w kq - 1 11
+Qf3     d1-f3   r1bqkb1r/2p1nppp/p7/2npN3/Pp6/1B1P1Q2/1PP2PPP/RNB1R1K1 b kq - 2 11
+f6      f7-f6   r1bqkb1r/2p1n1pp/p4p2/2npN3/Pp6/1B1P1Q2/1PP2PPP/RNB1R1K1 w kq - 0 12
+Qh5+    f3-h5   r1bqkb1r/2p1n1pp/p4p2/2npN2Q/Pp6/1B1P4/1PP2PPP/RNB1R1K1 b kq - 1 12
+g6      g7-g6   r1bqkb1r/2p1n2p/p4pp1/2npN2Q/Pp6/1B1P4/1PP2PPP/RNB1R1K1 w kq - 0 13
+Nxg6    e5xg6   r1bqkb1r/2p1n2p/p4pN1/2np3Q/Pp6/1B1P4/1PP2PPP/RNB1R1K1 b kq - 0 13
+hxg6    h7xg6   r1bqkb1r/2p1n3/p4pp1/2np3Q/Pp6/1B1P4/1PP2PPP/RNB1R1K1 w kq - 0 14
+Qxh8    h5xh8   r1bqkb1Q/2p1n3/p4pp1/2np4/Pp6/1B1P4/1PP2PPP/RNB1R1K1 b q - 1 14
+Nxb3    c5xb3   r1bqkb1Q/2p1n3/p4pp1/3p4/Pp6/1n1P4/1PP2PPP/RNB1R1K1 w q - 2 15
+cxb3    c2xb3   r1bqkb1Q/2p1n3/p4pp1/3p4/Pp6/1P1P4/1P3PPP/RNB1R1K1 b q - 0 15
+Qd6     d8-d6   r1b1kb1Q/2p1n3/p2q1pp1/3p4/Pp6/1P1P4/1P3PPP/RNB1R1K1 w q - 1 16
+Bh6     c1-h6   r1b1kb1Q/2p1n3/p2q1ppB/3p4/Pp6/1P1P4/1P3PPP/RN2R1K1 b q - 2 16
+Kd7     e8-d7   r1b2b1Q/2pkn3/p2q1ppB/3p4/Pp6/1P1P4/1P3PPP/RN2R1K1 w  - 3 17
+Bxf8    h6xf8   r1b2B1Q/2pkn3/p2q1pp1/3p4/Pp6/1P1P4/1P3PPP/RN2R1K1 b  - 4 17
+Bb7     c8-b7   r4B1Q/1bpkn3/p2q1pp1/3p4/Pp6/1P1P4/1P3PPP/RN2R1K1 w  - 5 18
+Qg7     h8-g7   r4B2/1bpkn1Q1/p2q1pp1/3p4/Pp6/1P1P4/1P3PPP/RN2R1K1 b  - 6 18
+Re8     a8-e8   4rB2/1bpkn1Q1/p2q1pp1/3p4/Pp6/1P1P4/1P3PPP/RN2R1K1 w  - 7 19
+Nd2     b1-d2   4rB2/1bpkn1Q1/p2q1pp1/3p4/Pp6/1P1P4/1P1N1PPP/R3R1K1 b  - 8 19
+c5      c7-c5   4rB2/1b1kn1Q1/p2q1pp1/2pp4/Pp6/1P1P4/1P1N1PPP/R3R1K1 w  c6 0 20
+Rad1    a1-d1   4rB2/1b1kn1Q1/p2q1pp1/2pp4/Pp6/1P1P4/1P1N1PPP/3RR1K1 b  - 1 20
+a5      a6-a5   4rB2/1b1kn1Q1/3q1pp1/p1pp4/Pp6/1P1P4/1P1N1PPP/3RR1K1 w  - 0 21
+Nc4     d2-c4   4rB2/1b1kn1Q1/3q1pp1/p1pp4/PpN5/1P1P4/1P3PPP/3RR1K1 b  - 1 21
+dxc4    d5xc4   4rB2/1b1kn1Q1/3q1pp1/p1p5/Ppp5/1P1P4/1P3PPP/3RR1K1 w  - 0 22
+dxc4    d3xc4   4rB2/1b1kn1Q1/3q1pp1/p1p5/PpP5/1P6/1P3PPP/3RR1K1 b  - 0 22
+Qxd1    d6xd1   4rB2/1b1kn1Q1/5pp1/p1p5/PpP5/1P6/1P3PPP/3qR1K1 w  - 1 23
+Rxd1+   e1xd1   4rB2/1b1kn1Q1/5pp1/p1p5/PpP5/1P6/1P3PPP/3R2K1 b  - 2 23
+Kc8     d7-c8   2k1rB2/1b2n1Q1/5pp1/p1p5/PpP5/1P6/1P3PPP/3R2K1 w  - 3 24
+Bxe7    f8xe7   2k1r3/1b2B1Q1/5pp1/p1p5/PpP5/1P6/1P3PPP/3R2K1 b  - 4 24

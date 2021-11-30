@@ -1,0 +1,63 @@
+A. Turing vs. A. Glennie (1952) /// Result: 0-1 after 58 moves
+----------------------------------------------------------------
+short   long    FEN
+----------------------------------------------------------------
+Init    Init    rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+e4      e2-e4   rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+e5      e7-e5   rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2
+Nc3     b1-c3   rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
+Nf6     g8-f6   rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
+d4      d2-d4   rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq d3 0 3
+Bb4     f8-b4   rnbqk2r/pppp1ppp/5n2/4p3/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 4
+Nf3     g1-f3   rnbqk2r/pppp1ppp/5n2/4p3/1b1PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 4
+d6      d7-d6   rnbqk2r/ppp2ppp/3p1n2/4p3/1b1PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5
+Bd2     c1-d2   rnbqk2r/ppp2ppp/3p1n2/4p3/1b1PP3/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 1 5
+Nc6     b8-c6   r1bqk2r/ppp2ppp/2np1n2/4p3/1b1PP3/2N2N2/PPPB1PPP/R2QKB1R w KQkq - 2 6
+d5      d4-d5   r1bqk2r/ppp2ppp/2np1n2/3Pp3/1b2P3/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 0 6
+Nd4     c6-d4   r1bqk2r/ppp2ppp/3p1n2/3Pp3/1b1nP3/2N2N2/PPPB1PPP/R2QKB1R w KQkq - 1 7
+h4      h2-h4   r1bqk2r/ppp2ppp/3p1n2/3Pp3/1b1nP2P/2N2N2/PPPB1PP1/R2QKB1R b KQkq h3 0 7
+Bg4     c8-g4   r2qk2r/ppp2ppp/3p1n2/3Pp3/1b1nP1bP/2N2N2/PPPB1PP1/R2QKB1R w KQkq - 1 8
+a4      a2-a4   r2qk2r/ppp2ppp/3p1n2/3Pp3/Pb1nP1bP/2N2N2/1PPB1PP1/R2QKB1R b KQkq a3 0 8
+Nxf3+   d4xf3   r2qk2r/ppp2ppp/3p1n2/3Pp3/Pb2P1bP/2N2n2/1PPB1PP1/R2QKB1R w KQkq - 1 9
+gxf3    g2xf3   r2qk2r/ppp2ppp/3p1n2/3Pp3/Pb2P1bP/2N2P2/1PPB1P2/R2QKB1R b KQkq - 0 9
+Bh5     g4-h5   r2qk2r/ppp2ppp/3p1n2/3Pp2b/Pb2P2P/2N2P2/1PPB1P2/R2QKB1R w KQkq - 1 10
+Bb5+    f1-b5   r2qk2r/ppp2ppp/3p1n2/1B1Pp2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R b KQkq - 2 10
+c6      c7-c6   r2qk2r/pp3ppp/2pp1n2/1B1Pp2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R w KQkq - 0 11
+dxc6    d5xc6   r2qk2r/pp3ppp/2Pp1n2/1B2p2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R b KQkq - 0 11
+O-O     O-O     r2q1rk1/pp3ppp/2Pp1n2/1B2p2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R w KQ - 1 12
+cxb7    c6xb7   r2q1rk1/pP3ppp/3p1n2/1B2p2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R b KQ - 0 12
+Rb8     a8-b8   1r1q1rk1/pP3ppp/3p1n2/1B2p2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R w KQ - 1 13
+Ba6     b5-a6   1r1q1rk1/pP3ppp/B2p1n2/4p2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R b KQ - 2 13
+Qa5     d8-a5   1r3rk1/pP3ppp/B2p1n2/q3p2b/Pb2P2P/2N2P2/1PPB1P2/R2QK2R w KQ - 3 14
+Qe2     d1-e2   1r3rk1/pP3ppp/B2p1n2/q3p2b/Pb2P2P/2N2P2/1PPBQP2/R3K2R b KQ - 4 14
+Nd7     f6-d7   1r3rk1/pP1n1ppp/B2p4/q3p2b/Pb2P2P/2N2P2/1PPBQP2/R3K2R w KQ - 5 15
+Rg1     h1-g1   1r3rk1/pP1n1ppp/B2p4/q3p2b/Pb2P2P/2N2P2/1PPBQP2/R3K1R1 b Q - 6 15
+Nc5     d7-c5   1r3rk1/pP3ppp/B2p4/q1n1p2b/Pb2P2P/2N2P2/1PPBQP2/R3K1R1 w Q - 7 16
+Rg5     g1-g5   1r3rk1/pP3ppp/B2p4/q1n1p1Rb/Pb2P2P/2N2P2/1PPBQP2/R3K3 b Q - 8 16
+Bg6     h5-g6   1r3rk1/pP3ppp/B2p2b1/q1n1p1R1/Pb2P2P/2N2P2/1PPBQP2/R3K3 w Q - 9 17
+Bb5     a6-b5   1r3rk1/pP3ppp/3p2b1/qBn1p1R1/Pb2P2P/2N2P2/1PPBQP2/R3K3 b Q - 10 17
+Nxb7    c5xb7   1r3rk1/pn3ppp/3p2b1/qB2p1R1/Pb2P2P/2N2P2/1PPBQP2/R3K3 w Q - 0 18
+O-O-O   O-O-O   1r3rk1/pn3ppp/3p2b1/qB2p1R1/Pb2P2P/2N2P2/1PPBQP2/2KR4 b  - 1 18
+Nc5     b7-c5   1r3rk1/p4ppp/3p2b1/qBn1p1R1/Pb2P2P/2N2P2/1PPBQP2/2KR4 w  - 2 19
+Bc6     b5-c6   1r3rk1/p4ppp/2Bp2b1/q1n1p1R1/Pb2P2P/2N2P2/1PPBQP2/2KR4 b  - 3 19
+Rfc8    f8-c8   1rr3k1/p4ppp/2Bp2b1/q1n1p1R1/Pb2P2P/2N2P2/1PPBQP2/2KR4 w  - 4 20
+Bd5     c6-d5   1rr3k1/p4ppp/3p2b1/q1nBp1R1/Pb2P2P/2N2P2/1PPBQP2/2KR4 b  - 5 20
+Bxc3    b4xc3   1rr3k1/p4ppp/3p2b1/q1nBp1R1/P3P2P/2b2P2/1PPBQP2/2KR4 w  - 6 21
+Bxc3    d2xc3   1rr3k1/p4ppp/3p2b1/q1nBp1R1/P3P2P/2B2P2/1PP1QP2/2KR4 b  - 7 21
+Qxa4    a5xa4   1rr3k1/p4ppp/3p2b1/2nBp1R1/q3P2P/2B2P2/1PP1QP2/2KR4 w  - 0 22
+Kd2     c1-d2   1rr3k1/p4ppp/3p2b1/2nBp1R1/q3P2P/2B2P2/1PPKQP2/3R4 b  - 1 22
+Ne6     c5-e6   1rr3k1/p4ppp/3pn1b1/3Bp1R1/q3P2P/2B2P2/1PPKQP2/3R4 w  - 2 23
+Rg4     g5-g4   1rr3k1/p4ppp/3pn1b1/3Bp3/q3P1RP/2B2P2/1PPKQP2/3R4 b  - 3 23
+Nd4     e6-d4   1rr3k1/p4ppp/3p2b1/3Bp3/q2nP1RP/2B2P2/1PPKQP2/3R4 w  - 4 24
+Qd3     e2-d3   1rr3k1/p4ppp/3p2b1/3Bp3/q2nP1RP/2BQ1P2/1PPK1P2/3R4 b  - 5 24
+Nb5     d4-b5   1rr3k1/p4ppp/3p2b1/1n1Bp3/q3P1RP/2BQ1P2/1PPK1P2/3R4 w  - 6 25
+Bb3     d5-b3   1rr3k1/p4ppp/3p2b1/1n2p3/q3P1RP/1BBQ1P2/1PPK1P2/3R4 b  - 7 25
+Qa6     a4-a6   1rr3k1/p4ppp/q2p2b1/1n2p3/4P1RP/1BBQ1P2/1PPK1P2/3R4 w  - 8 26
+Bc4     b3-c4   1rr3k1/p4ppp/q2p2b1/1n2p3/2B1P1RP/2BQ1P2/1PPK1P2/3R4 b  - 9 26
+Bh5     g6-h5   1rr3k1/p4ppp/q2p4/1n2p2b/2B1P1RP/2BQ1P2/1PPK1P2/3R4 w  - 10 27
+Rg3     g4-g3   1rr3k1/p4ppp/q2p4/1n2p2b/2B1P2P/2BQ1PR1/1PPK1P2/3R4 b  - 11 27
+Qa4     a6-a4   1rr3k1/p4ppp/3p4/1n2p2b/q1B1P2P/2BQ1PR1/1PPK1P2/3R4 w  - 12 28
+Bxb5    c4xb5   1rr3k1/p4ppp/3p4/1B2p2b/q3P2P/2BQ1PR1/1PPK1P2/3R4 b  - 13 28
+Qxb5    a4xb5   1rr3k1/p4ppp/3p4/1q2p2b/4P2P/2BQ1PR1/1PPK1P2/3R4 w  - 14 29
+Qxd6    d3xd6   1rr3k1/p4ppp/3Q4/1q2p2b/4P2P/2B2PR1/1PPK1P2/3R4 b  - 0 29
+Rd8     c8-d8   1r1r2k1/p4ppp/3Q4/1q2p2b/4P2P/2B2PR1/1PPK1P2/3R4 w  - 1 30
